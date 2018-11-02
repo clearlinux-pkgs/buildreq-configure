@@ -7,6 +7,7 @@ Url:            https://clearlinux.org/
 Group:          base
 Requires:	autoconf
 Requires:	automake
+Requires:	libabigail
 
 %description
 Helper files 
