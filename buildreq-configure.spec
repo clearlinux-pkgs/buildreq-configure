@@ -8,6 +8,7 @@ Group:          base
 Requires:	autoconf
 Requires:	automake
 Requires:	libabigail
+Requires:	file
 
 %description
 Helper files 
